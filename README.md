@@ -1,1 +1,1 @@
-# Dice-Game.github.io
+# Dice-Game
